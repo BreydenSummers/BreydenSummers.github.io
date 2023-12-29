@@ -20,11 +20,11 @@ urls:
 
 author_logo: pfp-cropped.jpg
 author: Breyden Summers
-author_bio: Hi, my name is John Doe. I built this site using devlopr-jekyll :D
+author_bio: I like to do fun projects, and read books.
 author_email: "BreydenSummers@gmail.com"
 author_location: USA
 author_website_url: ""
-typewrite-text: devlopr is a jekyll framework built for developers. You can edit this in _config.yml file
+typewrite-text: It seems I still dont know how to exit vim....
 hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
 # Experiences
