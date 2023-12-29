@@ -46,4 +46,17 @@ xplor4r:
         url: "https://www.youtube.com/channel/UCSfLBFFfNU9r6ihfei6VeJw"
       - title: "facebook"
         url: "https://www.facebook.com/sujay.kundu2"
+breyden:
+   name: Breyden Summers
+   username: breyden
+   site: breydensummers.github.io
+   avatar: pfp-cropped.jpg
+   bio: "A software enthusiast and IT professional based in Utah."
+   email: breydensummers@gmail.com
+   social:
+      - title: "github"
+        url: "https://github.com/BreydenSummers"
+      - title: "linkedin"
+        url: "https://www.linkedin.com/in/breyden-summers-7122801b0/"
+   
 
