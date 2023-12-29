@@ -18,7 +18,7 @@ urls:
 
 # Edit Author details (For multi authors check _data/authors.yml)
 
-author_logo: profile.png
+author_logo: pfp-cropped.jpg
 author: Breyden Summers
 author_bio: Hi, my name is John Doe. I built this site using devlopr-jekyll :D
 author_email: "BreydenSummers@gmail.com"
