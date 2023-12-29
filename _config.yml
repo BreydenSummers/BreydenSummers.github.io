@@ -1,5 +1,5 @@
-title: devlopr
-subtitle: A Portfolio Jekyll Theme Built for Developers
+title: Breyden Summers
+subtitle: Likes to do fun projects, and read books.
 description: >- # this means to ignore newlines until "baseurl:"
   devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.
 
@@ -14,22 +14,16 @@ urls:
       url: /about
     - text: Blog
       url: /blog
-    - text: Gallery
-      url: /gallery
-    - text: Shop
-      url : /shop
-    - text: Contact
-      url : /contact
 
 
 # Edit Author details (For multi authors check _data/authors.yml)
 
 author_logo: profile.png
-author: John Doe
+author: Breyden Summers
 author_bio: Hi, my name is John Doe. I built this site using devlopr-jekyll :D
-author_email: "mail@sujaykundu.com"
-author_location: India
-author_website_url: "https://sujaykundu.com"
+author_email: "BreydenSummers@gmail.com"
+author_location: USA
+author_website_url: ""
 typewrite-text: devlopr is a jekyll framework built for developers. You can edit this in _config.yml file
 hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
@@ -71,16 +65,8 @@ author_project_details:
                 visibility: true
 
 # social links
-twitter_username: johndoe
-github_username:  sujaykundu777
-facebook_username: johndoe
-linkedin_username: johndoe
-behance_username: johndoe
-instagram_username: johndoe
-medium_username: johndoe
-telegram_username: johndoe
-dribbble_username: johndoe
-flickr_username: johndoe
+github_username:  BreydenSummers
+linkedin_username: breyden-summers-7122801b0
 
 #for comments ( we got Disqus and Hyvor Commenting, uncomment the one you want to use )
 
@@ -107,8 +93,8 @@ highlighter: rouge
 permalink: pretty
 
 # Choose what to show ( can be true or false)
-show_author_work_experiences: true
-show_author_education_details: true
+show_author_work_experiences: false
+show_author_education_details: false
 show_author_project_details: true
 
 # pagination of posts
@@ -134,9 +120,9 @@ paginate_path: "/blog/page/:num/"
 
 collections:
   products:
-    output: true
+    output: false
   authors:
-    output: true
+    output: false
 
 defaults:
   -
