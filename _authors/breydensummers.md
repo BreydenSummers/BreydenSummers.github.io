@@ -2,7 +2,6 @@
 name: Breyden Summers
 username: BreydenSummers
 bio: ""
-site: https://breydensummers.github.io/
 avatar: pfp-cropped.jpg
 email: breydensummers@gmail.com
 social:
