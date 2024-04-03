@@ -47,6 +47,8 @@ print/d $eax
 ```
 Then you can just wrap that value in the flag markers to get the flag: SOC_CTF{307019}.
 
+If you want to dive into this deeper you can view the original problem and solution [here](https://www.stackzero.net/gdb-baby-step-2/).
+
 
 ## No True Cryptographer
 For this problem You'll need to fire up ghidra. Or this [website](https://dogbolt.org/) can get you started. When we look at the decompiled program there are a few things we can note. Firstly that this is an array initialization:<br>
