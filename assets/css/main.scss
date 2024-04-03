@@ -6,8 +6,9 @@
 @import "devlopr";
 
 /* custom css goes below */
-img {
+p img {
     overflow-clip-margin: content-box;
     overflow: clip;
-    width: 100%;
+    // width: 100%;
+    display: inline-block;
 }
