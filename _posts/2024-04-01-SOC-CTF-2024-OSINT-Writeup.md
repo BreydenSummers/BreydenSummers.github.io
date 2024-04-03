@@ -31,6 +31,8 @@ Ref:            https://rdap.arin.net/registry/entity/DO-13
 Seeing this we can use the orgname as our solution: DigitalOcean.
 
 ## The wiggle duckling 1 and 2
-For this challenge, you need to go to wigle.net and submit the value AC:DB:48:48:84:47 as the BSSID. ![image](https://github.com/BreydenSummers/BreydenSummers.github.io/assets/40399657/2b016c99-2a88-4d4a-bd9b-2717ba9e1f3b) From here we can see that the network is found in Boston Public Garden. We can submit that as our solution for the first one. For the second one we need to just google statues in the garden and we can see there is one in there called Make Way for Ducklings. We can submint that for the second challenge.
+For this challenge, you need to go to wigle.net and submit the value AC:DB:48:48:84:47 as the BSSID. ![image](assets/img/posts/SOC-CTF-2024/2b016c99-2a88-4d4a-bd9b-2717ba9e1f3b.png) From here we can see that the network is found in Boston Public Garden. We can submit that as our solution for the first one. For the second one, we need to just google statues in the garden and we can see there is one in there called Make Way for Ducklings. We can submit that for the second challenge.
 
 
+## ATT&CK!!! 1 and 2
+For this one we can 
