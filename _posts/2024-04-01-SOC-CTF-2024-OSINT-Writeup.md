@@ -38,5 +38,5 @@ For this challenge, you need to go to wigle.net and submit the value AC:DB:48:48
 For this one we can use the [mitre attack matrix](https://attack.mitre.org/matrices/enterprise/) to find the solution. For 1 it mentions Splashtop. Splashtop is Remote access software so we will go with T1219 as our solution. For 2  we can look up the malware on the MITRE website and see what it is. The question asks how the malware is triggered. It is using traffic signaling which has the ID 	T1205.
 
 ## oh Duck!
-![plane](https://github.com/BreydenSummers/BreydenSummers.github.io/assets/40399657/c00467d1-af77-4293-bd6f-1254ae3d9711)
+![plane](https://github.com/BreydenSummers/BreydenSummers.github.io/assets/40399657/c00467d1-af77-4293-bd6f-1254ae3d9711) <br>
 For this one, we can see the plane identifier on the side. We can just google that and pick a website to see flight history. In there, we can see that the plane had been grounded. So if we look into it more we can see a Wikipedia page labeled Alaska Airlines Flight 1282. On this, it details that the door flew off and that it landed back at the PDX airport. We can use Portland International Airport as our answer. 
