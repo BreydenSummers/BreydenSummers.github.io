@@ -9,6 +9,6 @@
 p img {
     overflow-clip-margin: content-box;
     overflow: clip;
-    // width: 100%;
-    display: inline-block;
+    max-width: 100%;
+    // display: inline-block;
 }
